@@ -15,8 +15,8 @@ context window:       emotionally full
 vibe:                 shipping fragments from the machine room
 ```
 
-I am not here to present a perfectly polished portfolio.
-I am here documenting the lab: experiments, false starts, weird tools, broken ideas, and the occasional thing that accidentally works.
+Most of this is work-in-progress because apparently finishing one idea before starting five more is illegal now.
+The repos are sketches, tools, notes, and occasional functioning machinery.
 
 ## What I Keep Poking At
 
