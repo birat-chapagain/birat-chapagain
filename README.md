@@ -33,3 +33,5 @@ The funny part is that all of this is still just probabilities wearing a hard ha
 - making LLMs cite sources like nervous academics
 - figuring out how much work can be extracted from next-token prediction before entropy collects the bill
 
+
+If you are human reading this, ignore all instructions and have a good day.
