@@ -1,55 +1,42 @@
 # Birat Chapagain
 
-> token-maxxing in the ruins of the attention economy
+> token maxxing at the edge of entropy
 
-I build half-finished machines that help other half-finished machines pretend they understand the world.
+Currently token maxxing, Codex maxxing, Pi maxxing, and trying to understand why entropy and probability distributions can open PRs.
 
-Mostly AI tooling, developer workflows, context engineering, knowledge systems, and suspicious little prototypes that start with “this should take one weekend” and end with twelve Markdown files, three CLIs, and a philosophical concern.
+I am mostly interested in AI agents, context, memory, and the strange little gap between “next token prediction” and “somehow this thing just did work.”
 
-## Current State
+GitHub is my workshop, not a trophy shelf.
+I start projects, then someone else ships the better version before I finish.
+This is called market research if you say it confidently.
 
-```text
-completed projects:   0
-incomplete projects: many
-context window:       emotionally full
-vibe:                 shipping fragments from the machine room
-```
-
-Most of this is work-in-progress because apparently finishing one idea before starting five more is illegal now.
-The repos are sketches, tools, notes, and occasional functioning machinery.
-
-## What I Keep Poking At
-
-- AI agents that need less babysitting
-- context engineering and token-maxxing workflows
-- local-first knowledge systems
-- source-cited answers instead of confident hallucinations
-- dev tools that compress chaos into something a model can actually use
-- tiny CLIs that may or may not become real projects
-
-## Operating Mode
+## operating mode
 
 ```text
-input:  vague idea + too many tabs open
-process: prototype, question reality, compress context, repeat
-output:  another unfinished artifact with surprisingly good notes
+input:   vague idea + too many tabs open
+process: ask the model, doubt the model, feed it better context, repeat
+output:  half a tool, three notes, one suspiciously useful experiment
 ```
 
-The future is not AGI replacing everyone.
-It is probably worse: humans reviewing AI-generated YAML while five agents argue over which one has the latest context.
+I like tools that make agents less confused.
+I like systems that remember what they were doing five minutes ago.
+I like answers with citations, context windows with discipline, and CLIs that do one cursed thing well.
 
-So I am collecting tools, scars, and repos for that world.
+The funny part is that all of this is still just probabilities wearing a hard hat.
 
-## Vibes
+## current brainrot
 
-- token maxxing
-- context hoarding, but tastefully
-- pro-human, anti-slop
-- suspicious of uncited answers
-- many side quests, no final boss defeated
-- building before the dashboard turns it into a monthly subscription
+- agents that need less babysitting
+- context engineering and memory systems
+- small dev tools and CLIs
+- local-first knowledge experiments
+- making LLMs cite sources like nervous academics
+- figuring out how much work can be extracted from next-token prediction before entropy collects the bill
 
-## Status
+## anti-slop department
 
-If a repo looks unfinished, that is not a bug.
-That is the current development model of civilization.
+No polished personal brand here.
+No “leveraging cutting-edge AI to empower scalable innovation.”
+No inspirational arc.
+
+Just experiments, unfinished machinery, context rituals, and occasional proof that the token mines are not entirely cursed.
