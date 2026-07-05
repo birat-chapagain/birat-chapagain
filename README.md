@@ -33,10 +33,10 @@ The funny part is that all of this is still just probabilities wearing a hard ha
 - making LLMs cite sources like nervous academics
 - figuring out how much work can be extracted from next-token prediction before entropy collects the bill
 
-## anti-slop department
+## no personal brand department
 
-No polished personal brand here.
+No polished founder arc.
 No “leveraging cutting-edge AI to empower scalable innovation.”
-No inspirational arc.
+No pretending the slop is not part of the process.
 
 Just experiments, unfinished machinery, context rituals, and occasional proof that the token mines are not entirely cursed.
